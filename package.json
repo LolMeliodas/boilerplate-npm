@@ -3,9 +3,11 @@
 	"author": "Claudius Brockmann",
 	"description": "A thing that does something hopefully",
 	"keywords":["freecodecamp", "things", "nonsense"],
-	"license": "",
+	"license": "MIT",
+  "version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
+    
 	},
 	
 	"main": "server.js",
